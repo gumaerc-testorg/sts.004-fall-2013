@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-004-science-technology-world-fall-2013/839dbe7dbc3845a7693a57760f5558f0_STS-004_stat-students.png
+file: /media/courses/sts-004-science-technology-world-fall-2013/839dbe7dbc3845a7693a57760f5558f0_STS-004_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: STS-004_stat-students.png
 uid: 839dbe7d-bc38-45a7-693a-57760f5558f0

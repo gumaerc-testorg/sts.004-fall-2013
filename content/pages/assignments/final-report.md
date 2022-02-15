@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 title: Final Report
 uid: 35dd2331-d7a2-9f81-1716-100cb62452c4

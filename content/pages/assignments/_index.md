@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 ---
@@ -28,7 +31,7 @@ Current Event as STS (paper)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-MIT 150th Exhibit Examples (paper and presentation)
+MIT 150{{< sup "th" >}} Exhibit Examples (paper and presentation)
 {{< tdclose >}}
 {{< tdopen >}}
 6
@@ -104,7 +107,7 @@ Present some further information to the class about the Asilomar Conference of 1
 Written and Oral
 ----------------
 
-MIT 150th Exhibition examples – due session 6
+MIT 150{{< sup "th" >}} Exhibition examples – due session 6
 
 Choose three objects (from the 150 displayed) that illustrate three different types of societal intersections between MIT and the world. Write a paragraph for each object explaining what "society" means in the context of the intersection.
 

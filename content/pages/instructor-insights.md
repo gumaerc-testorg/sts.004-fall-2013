@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d9630192-af39-8381-5030-4047131bb112
 ---
@@ -61,20 +63,6 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 ### Offered
 
 _STS.004 Science, Technology, & World_ was offered for the first time in Fall 2013.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photo of a classroom containing four rows of seats with six seats to a row.]({{< resource_file 7254ad1f-356c-d43b-07fa-15b5a98502f1 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a medium/small classroom with chalk boards and a projector. This classroom accommodated up to 24 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

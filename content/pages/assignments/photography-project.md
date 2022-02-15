@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 title: Photography Project
 uid: a79dfb7c-a6ae-34af-c31c-0a452e23611b
