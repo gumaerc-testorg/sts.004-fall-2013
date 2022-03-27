@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Keywords and Concepts
 parent_type: CourseSection
+parent_uid: aadb6ab8-975f-2e92-35f0-d477785c98be
 resourcetype: Document
 title: Key Words and Concepts
 uid: 13e8f74e-5de6-299f-5d34-c75195652177

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Photography Project
 parent_type: CourseSection
+parent_uid: a79dfb7c-a6ae-34af-c31c-0a452e23611b
 resourcetype: Document
 title: Photography Project
 uid: 1e1cdd94-01fd-a9c7-d99b-4ec0dbc37663

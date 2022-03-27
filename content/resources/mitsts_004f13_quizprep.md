@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Quiz Review
 parent_type: CourseSection
+parent_uid: fb060147-13f8-5119-9a79-a03f7aac4988
 resourcetype: Document
 title: Quiz Review
 uid: ee0abe38-b886-efce-1108-4097adc4d49f
