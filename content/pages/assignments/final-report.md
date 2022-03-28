@@ -20,4 +20,4 @@ As a default mode, the topic of your report should be an overview of what you ha
 
 If you prefer, you could report in more detail on one of the topics we studied: STS as a multidisciplinary field, STS in MIT history, STS at MIT today, the Swartz prosecution, legal regulation of scientific research, self-regulation of scientific research, photography, utopian imagination, etc., etc. Or you can report on any STS topic of interest to you, though in this case you should clear it with the instructor in advance.
 
-This is also available as a [PDF]({{< baseurl >}}/resources/mitsts_004f13_assig_final).
+This is also available as a {{< resource_link 710475b5-ef7c-e42b-1533-42bd11da97fe "PDF" >}}.

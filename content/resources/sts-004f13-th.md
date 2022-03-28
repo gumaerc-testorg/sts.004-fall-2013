@@ -21,6 +21,7 @@ image_metadata:
     skeleton in the foreground.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: The Rogers Building (thumbnail)
 uid: 43736a56-d1ea-0fd9-4988-305bbdde389b

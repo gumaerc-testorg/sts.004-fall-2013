@@ -40,4 +40,4 @@ Semantic void
 
 Reification
 
-This is also available as a [PDF]({{< baseurl >}}/resources/mitsts_004f13_keywords).
+This is also available as a {{< resource_link 13e8f74e-5de6-299f-5d34-c75195652177 "PDF" >}}.
