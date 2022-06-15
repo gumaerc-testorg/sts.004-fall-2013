@@ -1,22 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: d9630192-af39-8381-5030-4047131bb112
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _STS.004 Science, Technology, & World_ as it was taught by Rosalind Williams in Fall 2013.
 
 This course is a very pragmatic kind of introduction to Science, Technology, and Society (STS). It covers the types of issues and methodologies for studying them that exist wherever science, technology, and society intersect. Depending on a given topic and desired goals, approaches used in STS may include: economic, historical, literary, ethnographic, anthropological, or sociological methods.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -24,12 +23,11 @@ Students should leave the class with an “elevator talk,” or brief explanatio
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "Citizenship education is as important as professional education." "—Rosalind Williams" >}}
 
-_Below, Rosalind Williams describes various aspects of how she taught STS.004 Science, Technology, & World._
+_Below, Rosalind Williams describes various aspects of how she taught_ STS.004 Science, Technology, & World_._
 
 Questions in STS come up all the time and to have some idea of how to approach them is important (for an MIT graduate). Citizenship education is as important as professional education.
 
@@ -39,10 +37,10 @@ The STS Department at MIT did not have an introductory course. Instead, there we
 
 Students in _STS.091 Critical Issues in Science, Technology, and Society_ developed the curriculum and syllabus for STS.004. They decided that the course needed to be based around case studies/units that fulfilled the following requirements:
 
-*   One needed to be MIT related
-*   One needed to be something artistic and/or aesthetic
-*   There had to be an idea of imagination—opening up what is and what could be
-*   There needed to be coverage of social issues
+- One needed to be MIT related
+- One needed to be something artistic and/or aesthetic
+- There had to be an idea of imagination—opening up what is and what could be
+- There needed to be coverage of social issues
 
 Additionally, they determined that key concepts and terms needed to be covered—the explicit introduction to the tool kit.
 
@@ -50,8 +48,7 @@ Additionally, they determined that key concepts and terms needed to be covered�
 
 During each unit, an invited speaker gave a presentation, which was followed by a discussion. People are the best source of knowledge, not a Wikipedia page. Telephoning, skyping, and (sometimes) e-mailing the right person can be very useful. Students took field trips to locations for primary research—some of which was based on discussion with experts.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -67,8 +64,7 @@ _STS.004 Science, Technology, & World_ was offered for the first time in Fall 20
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -79,50 +75,49 @@ The students' grades were based on the following activities:
 - 46% Writing assignments
 
 ### Instructor Insights on Assessment
+
 Students had the opportunity to rewrite papers even when it was not required. Some students did two revisions of a single paper.
 
-Student Information
--------------------
+## Student Information
 
-![10 students took this course when it was offered in Fall 2013.]({{< resource_file 839dbe7d-bc38-45a7-693a-57760f5558f0 >}})
+### Enrollment
+
+10 students
 
 ### Breakdown by Year
 
-*   10% Freshmen
-*   10% Sophomore
-*   40% Juniors
-*   30% Seniors
-*   10% Graduate students
+- 10% Freshmen
+- 10% Sophomore
+- 40% Juniors
+- 30% Seniors
+- 10% Graduate students
 
 ### Breakdown by Major
 
-*   10% undeclared
-*   10% Materials Science & Engineering
-*   10% Architecture
-*   40% Electrical Engineering and Computer Science
-*   30% Biological Engineering
+- 10% undeclared
+- 10% Materials Science & Engineering
+- 10% Architecture
+- 40% Electrical Engineering and Computer Science
+- 30% Biological Engineering
 
 ### Typical Student Background
 
-*   Upperclassmen
-*   Not majoring/concentrating in STS
+- Upperclassmen
+- Not majoring/concentrating in STS
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Seminar
--------
+### Seminar
 
-*   Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
-*   Several seminars featured guest speakers.
-*   Students often engaged in discussions and gave oral presentations.
-*   Students visited the [Institute Archives & Special Collections](http://libraries.mit.edu/archives/) and the Kurtz Gallery for Photography at the [MIT Museum](http://web.mit.edu/museum/).
+- Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
+- Several seminars featured guest speakers.
+- Students often engaged in discussions and gave oral presentations.
+- Students visited the [Institute Archives & Special Collections](http://libraries.mit.edu/archives/) and the Kurtz Gallery for Photography at the [MIT Museum](http://web.mit.edu/museum/).
 
-Out of Class
-------------
+### Out of Class
 
 Students completed readings, wrote papers, prepared for oral presentations, and studied for the quiz.
