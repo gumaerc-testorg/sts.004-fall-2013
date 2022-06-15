@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of materials to review and study questions
+  for a quiz.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -72,4 +74,4 @@ What are some ways in which MIT as an institution polarized around science and e
 
 What other questions do you have about STS that we should discuss further this term?
 
-This is also available as a {{< resource_link ee0abe38-b886-efce-1108-4097adc4d49f "PDF" >}}.
+This is also available as a {{% resource_link ee0abe38-b886-efce-1108-4097adc4d49f "PDF" %}}.

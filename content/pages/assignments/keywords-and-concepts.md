@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of keywords and concepts covered for a
+  quiz.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -40,4 +42,4 @@ Semantic void
 
 Reification
 
-This is also available as a {{< resource_link 13e8f74e-5de6-299f-5d34-c75195652177 "PDF" >}}.
+This is also available as a {{% resource_link 13e8f74e-5de6-299f-5d34-c75195652177 "PDF" %}}.

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on an assignment to prepare a presentation
+  on a type of photography that interests you.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,4 +34,4 @@ On the day of the presentation, hand in a written summary of your comments along
 
 The printed copies of the images do not have to be high quality. For your presentation, however, you should try to provide high quality images, whether printed or projected.
 
-This is also available as a {{< resource_link 1e1cdd94-01fd-a9c7-d99b-4ec0dbc37663 "PDF" >}}.
+This is also available as a {{% resource_link 1e1cdd94-01fd-a9c7-d99b-4ec0dbc37663 "PDF" %}}.
