@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a list of materials to review and study questions
+  for a quiz.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 title: Quiz Review
 uid: fb060147-13f8-5119-9a79-a03f7aac4988
@@ -68,4 +74,4 @@ What are some ways in which MIT as an institution polarized around science and e
 
 What other questions do you have about STS that we should discuss further this term?
 
-This is also available as a [PDF]({{< baseurl >}}/resources/mitsts_004f13_quizprep).
+This is also available as a {{% resource_link ee0abe38-b886-efce-1108-4097adc4d49f "PDF" %}}.

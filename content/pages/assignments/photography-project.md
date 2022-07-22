@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on an assignment to prepare a presentation
+  on a type of photography that interests you.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 title: Photography Project
 uid: a79dfb7c-a6ae-34af-c31c-0a452e23611b
@@ -28,4 +34,4 @@ On the day of the presentation, hand in a written summary of your comments along
 
 The printed copies of the images do not have to be high quality. For your presentation, however, you should try to provide high quality images, whether printed or projected.
 
-This is also available as a [PDF]({{< baseurl >}}/resources/mitsts_004f13_photog).
+This is also available as a {{% resource_link 1e1cdd94-01fd-a9c7-d99b-4ec0dbc37663 "PDF" %}}.

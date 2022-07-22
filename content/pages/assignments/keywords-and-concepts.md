@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides the list of keywords and concepts covered for a
+  quiz.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 title: Keywords and Concepts
 uid: aadb6ab8-975f-2e92-35f0-d477785c98be
@@ -36,4 +42,4 @@ Semantic void
 
 Reification
 
-This is also available as a [PDF]({{< baseurl >}}/resources/mitsts_004f13_keywords).
+This is also available as a {{% resource_link 13e8f74e-5de6-299f-5d34-c75195652177 "PDF" %}}.

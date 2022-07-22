@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, attendance, laptop policy, academic honesty, assignments,
+  grading, and the schedule of course topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4b980da9-c00e-5821-9de3-89cfcae8bd6d
 ---
@@ -57,7 +62,7 @@ Session 14: Further background / comment on Asilomar / Cambridge City Council
 
 ### Written and Oral
 
-Session 6: MIT 150th Exhibit examples (3 items)
+Session 6: MIT 150{{< sup "th" >}} Exhibit examples (3 items)
 
 Session 20: Photography project
 
@@ -285,7 +290,7 @@ Guest Speaker: Debbie Douglas, Director of Collections and Curator at the MIT Mu
 
 {{< tdclose >}}
 {{< tdopen >}}
-Written and oral presentation: MIT 150th Exhibit examples (students choose three items and explain how each illustrates the intersection of science, technology, and the world)
+Written and oral presentation: MIT 150{{< sup "th" >}} Exhibit examples (students choose three items and explain how each illustrates the intersection of science, technology, and the world)
 {{< tdclose >}}
 
 {{< trclose >}}

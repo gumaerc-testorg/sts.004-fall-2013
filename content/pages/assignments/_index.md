@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, including papers,
+  oral presentations, and a quiz.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 ---
@@ -28,7 +33,7 @@ Current Event as STS (paper)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-MIT 150th Exhibit Examples (paper and presentation)
+MIT 150{{< sup "th" >}} Exhibit Examples (paper and presentation)
 {{< tdclose >}}
 {{< tdopen >}}
 6
@@ -104,21 +109,21 @@ Present some further information to the class about the Asilomar Conference of 1
 Written and Oral
 ----------------
 
-MIT 150th Exhibition examples – due session 6
+MIT 150{{< sup "th" >}} Exhibition examples – due session 6
 
 Choose three objects (from the 150 displayed) that illustrate three different types of societal intersections between MIT and the world. Write a paragraph for each object explaining what "society" means in the context of the intersection.
 
 Photography project – due session 20
 
-For this assignment, prepare a [presentation]({{< baseurl >}}/pages/assignments/photography-project) on a type of photography that interests you.
+For this assignment, prepare a {{% resource_link a79dfb7c-a6ae-34af-c31c-0a452e23611b "presentation" %}} on a type of photography that interests you.
 
 Student final reports – due sessions 25, and 26
 
-Students have two options for their [final reports]({{< baseurl >}}/pages/assignments/final-report).
+Students have two options for their {{% resource_link 35dd2331-d7a2-9f81-1716-100cb62452c4 "final reports" %}}.
 
 Quiz
 ----
 
-The quiz is based on a list of [key words and concepts]({{< baseurl >}}/pages/assignments/keywords-and-concepts) that students are asked to define and contextualize.
+The quiz is based on a list of {{% resource_link aadb6ab8-975f-2e92-35f0-d477785c98be "key words and concepts" %}} that students are asked to define and contextualize.
 
-During session five there is a [review]({{< baseurl >}}/pages/assignments/quiz-review) of these concepts.
+During session five there is a {{% resource_link fb060147-13f8-5119-9a79-a03f7aac4988 "review" %}} of these concepts.
