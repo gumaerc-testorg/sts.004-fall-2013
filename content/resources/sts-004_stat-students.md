@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: STS-004_stat-students.png
 uid: 839dbe7d-bc38-45a7-693a-57760f5558f0
 ---
 Image showing the number of students enrolled in the course.
-

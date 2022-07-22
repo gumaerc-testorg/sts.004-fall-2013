@@ -4,6 +4,7 @@ description: Alist of materials to review and study questions for a quiz.
 file: /courses/sts-004-science-technology-world-fall-2013/ee0abe38b886efce11084097adc4d49f_MITSTS_004F13_quizprep.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quiz Review
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Quiz Review
 uid: ee0abe38-b886-efce-1108-4097adc4d49f
 ---
 Alist of materials to review and study questions for a quiz.
-

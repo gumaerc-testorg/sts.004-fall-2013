@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: STS-004_classroom-1
 uid: 7254ad1f-356c-d43b-07fa-15b5a98502f1
 ---
 Photo of the classroom used to teach the course.
-
