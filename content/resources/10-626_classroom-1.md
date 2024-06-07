@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of a classroom.
 file: /courses/sts-004-science-technology-world-fall-2013/fd0aa1ee81608c121ed7bbbe527a65d1_10-626_classroom-1.jpg
+file_size: 46817
 file_type: image/jpeg
 image_metadata:
   caption: ''
