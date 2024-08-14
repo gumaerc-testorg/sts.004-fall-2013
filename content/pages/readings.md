@@ -82,7 +82,7 @@ Please read the entire body of the report, Parts I through V. Also read Appendic
 Public Responses
 {{< tdclose >}}{{< tdopen >}}
 
-Lin, Leon. "[In Swartz Case, MIT 'hands off,' report says](http://tech.mit.edu/V133/N30/swartz.html)," *The Tech*, August 7, 2013.
+Lin, Leon. "[In Swartz Case, MIT 'hands off,' report says](https://thetech.com/2013/08/07/swartz-v133-n30)," *The Tech*, August 7, 2013.
 
 Swartz, John. "[M.I.T. Cleared in Report After Suicide of Activist](http://www.nytimes.com/2013/07/31/us/mit-releases-report-on-its-role-in-the-case-of-aaron-swartz.html?_r=1&)," *New York Times*, July 30, 2013.
 
