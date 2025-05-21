@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Details on the final report required for the course.
-file: /ol-ocw-studio-app/courses/sts-004-science-technology-world-fall-2013/710475b5ef7ce42b153342bd11da97fe_MITSTS_004F13_assig_final.pdf
+file: /courses/sts-004-science-technology-world-fall-2013/710475b5ef7ce42b153342bd11da97fe_MITSTS_004F13_assig_final.pdf
 file_size: 141031
 file_type: application/pdf
 learning_resource_types: []

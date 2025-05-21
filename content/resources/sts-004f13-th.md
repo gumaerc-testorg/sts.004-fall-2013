@@ -6,7 +6,7 @@ description: The Rogers Building was the first building on MIT's campus. Constru
   raised that demonstrate the need to consider science and technology in a broader
   societal context. Thumbnail image of Photogravure Views of the Mass. Institute of
   Technology, Boston, 1889. This image is public domain.
-file: /ol-ocw-studio-app/courses/sts-004-science-technology-world-fall-2013/43736a56d1ea0fd94988305bbdde389b_sts-004f13-th.jpg
+file: /courses/sts-004-science-technology-world-fall-2013/43736a56d1ea0fd94988305bbdde389b_sts-004f13-th.jpg
 file_size: 5285
 file_type: image/jpeg
 image_metadata:
