@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /ol-ocw-studio-app/courses/sts-004-science-technology-world-fall-2013/839dbe7dbc3845a7693a57760f5558f0_STS-004_stat-students.png
+file: /courses/sts-004-science-technology-world-fall-2013/839dbe7dbc3845a7693a57760f5558f0_STS-004_stat-students.png
 file_size: 2820
 file_type: image/png
 image_metadata:
