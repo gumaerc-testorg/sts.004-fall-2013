@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Alist of materials to review and study questions for a quiz.
-file: /ol-ocw-studio-app/courses/sts-004-science-technology-world-fall-2013/ee0abe38b886efce11084097adc4d49f_MITSTS_004F13_quizprep.pdf
+file: /courses/sts-004-science-technology-world-fall-2013/ee0abe38b886efce11084097adc4d49f_MITSTS_004F13_quizprep.pdf
 file_size: 723297
 file_type: application/pdf
 learning_resource_types: []
